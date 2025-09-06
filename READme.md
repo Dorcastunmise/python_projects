@@ -1,1 +1,1 @@
-<video src="[https://github.com/user-attachments/assets/07e68b2e-7758-4b82-bfd7-43c5916031da](https://github.com/user-attachments/assets/978fdca2-1bd0-46a6-a9e4-9053c63f0d75)" width="352" height="500"></video>
+<video src="https://github.com/user-attachments/assets/978fdca2-1bd0-46a6-a9e4-9053c63f0d75" width="352" height="500"></video>
