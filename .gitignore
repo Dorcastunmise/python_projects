@@ -1,0 +1,5 @@
+# Ignore environment variables
+.env
+
+# Ignore downloaded videos in Assets folder
+Assets/*.mp4
