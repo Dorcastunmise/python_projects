@@ -1,0 +1,22 @@
+Assumptions
+
+- The /data directory contains a large number of files and subdirectories.
+- Only the game-related directories are of interest.
+- Each game is stored inside a directory whose name contains the word "game".
+- Inside every game directory, there is exactly one .go source file which must be compiled before running.
+
+ Project Steps / Requirements
+
+- Locate Game Directories
+- Search through the /data directory and identify all subdirectories whose names include "game".
+- Prepare Target Directory
+- Create a new /games directory that will hold all the processed games.
+- Organize Games
+- Copy each identified game into the /games directory.
+- While copying, remove the "game" suffix from the directory name to keep things clean and consistent.
+- Generate Metadata
+- Create a .json file that stores structured information about all the discovered games (e.g., original path, new path, game name, and source file).
+- Compile Game Code
+- For each game, compile its .go source file to produce an executable.
+- Execute Games
+- Run the compiled executables to verify that they work as expected.
